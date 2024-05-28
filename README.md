@@ -9,7 +9,7 @@
 ## 💫 About Me:
 <!--🔭 Estoy en busca de empleo<br>👯 Busco colaborar en cualquier tipo de proyecto<br>🤝 Estoy disponible para cualquier oferta<br>🌱 Me gusta el aprendizaje continuo<br>⚡ Me gusta la ciberseguridad-->
 <p align="center">
-  <a href="https://mateosolanodev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="PHP" />
+  <a href="https://mateosolanodev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
 </p>
 🔭 I am looking for a job<br>
 👯 I am looking to collaborate in any kind of project<br>
@@ -19,9 +19,15 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/476518482465390605) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mateo_solano05) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-solano-8a227b280/) 
+<p align="center">
+  <a href="https://discord.gg/EHsHDebYvg"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://instagram.com/mateo_solano05"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/mateo-solano-8a227b280/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</p>
+    
+[![Discord]()]() 
+[![Instagram]()]() 
+[![LinkedIn]()](/) 
 
 ## 💻 Tech Stack:
 
