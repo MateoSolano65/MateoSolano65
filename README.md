@@ -97,10 +97,13 @@
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MateoSolano65&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MateoSolano65&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoSolano65&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateoSolano65&theme=dark&hide_border=false" />
+    <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MateoSolano65&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+    <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoSolano65&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</p>
+    
 ---
 [![](https://visitcount.itsvg.in/api?id=MateoSolano65&icon=5&color=12)](https://visitcount.itsvg.in)
