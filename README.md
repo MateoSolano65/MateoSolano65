@@ -1,11 +1,12 @@
-## 🐣 Hi, Welcome to my GitHub !
+<h1 align="center">🐣 Hi, Welcome to my GitHub !</h1>
+<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&pause=1000&center=true&random=false&width=435&lines=Backend+Developer;Software+Engineer;I+love+JavaScript+" alt="Typing SVG" /></a>
   </p>
 
 
-# 💫 About Me:
+## 💫 About Me:
 <!--🔭 Estoy en busca de empleo<br>👯 Busco colaborar en cualquier tipo de proyecto<br>🤝 Estoy disponible para cualquier oferta<br>🌱 Me gusta el aprendizaje continuo<br>⚡ Me gusta la ciberseguridad-->
 <p align="center">
   <a href="https://mateosolanodev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="PHP" />
