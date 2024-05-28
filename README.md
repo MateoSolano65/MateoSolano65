@@ -4,6 +4,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&pause=1000&center=true&random=false&width=435&lines=Backend+Developer;Software+Engineer;I+love+JavaScript+" alt="Typing SVG" /></a>
   </p>
 
+## 🌐 Socials:
+[![Linkedin: Mateo Solano](https://img.shields.io/badge/-Mateo--Solano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateo-solano-8a227b280/)](https://www.linkedin.com/in/mateo-solano-8a227b280/)
+
 
 ## 👨‍💻 Technologies
 
