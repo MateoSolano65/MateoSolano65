@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://mateosolanodev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
 </p>
-🔭 I am looking for a job<br>
+<!--🔭 I am looking for a job<br>
 👯 I am looking to collaborate in any kind of project<br>
-🤝 I am available for any offer<br>
+🤝 I am available for any offer<br>-->
 🌱 I like continuous learning<br>
 ⚡ I like cybersecurity
 
